@@ -2,7 +2,7 @@
 ## I'm Alllea Rakha Mahardhika<br> you can call me Rakha
 
 # 💫 About Me:
-👨‍🎓I'm fresh graduate at Media Informatika Vocational High School<br>💻 major in software engineering<br>🌱 I’m currently learning React Js<br>💬 Ask me about Something<br>⚡ Fun fact I love you
+👨‍🎓I'm graduated with a major in software engineering<br>🌱 I’m currently learning React Js<br>💬 Ask me about Something<br>⚡ Fun fact I love you
 
 
 ## 🌐 Socials:
